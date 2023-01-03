@@ -2,7 +2,8 @@
 </script>
 
 <template>
-  <button>Go to Checkout page</button>
+  <h3>PAY-STAR EMPLOYMENT TEST</h3>
+  <router-view></router-view>
 </template>
 
 <style scoped>
