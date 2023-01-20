@@ -1,5 +1,5 @@
-# PAY-STAR TEST
-### This project designed as a employment test and this Repo hold UI section for API see bellow link.
+# PAY-STAR PaymentGate implementation on Vue3.
+### This project designed as a test and this Repo hold UI section for API see bellow link.
 https://github.com/eternex/paystar-test-api
 
 #
